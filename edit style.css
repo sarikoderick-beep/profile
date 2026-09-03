@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.profile{
+    color: blue;
+    font-family: calibri;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+.image{
+    width: 50%;
+    height: auto;
+    border: 4px solid black;
+}
+.details{
+    width: 50%;
+    background-color: lightgreen;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    font-weight: bold;
+    border: 4px solid blue;
+    padding: 20px;
+}
